@@ -1,0 +1,2 @@
+tf01_static:tf03_tfs:tf04_test
+-DCATKIN_DEVEL_PREFIX=/home/miao/learros/demo04_ws/devel -DCMAKE_INSTALL_PREFIX=/home/miao/learros/demo04_ws/install -G Unix Makefiles
